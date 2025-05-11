@@ -1,0 +1,1 @@
+README.md: This webpage outlines the step-by-step marketing strategy for generating insurance leads via harmonyplan.ca. It is designed to help the client understand the plan clearly through collapsible sections, with minimal overwhelm and actionable insights.
